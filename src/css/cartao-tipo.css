@@ -1,0 +1,53 @@
+.cartao-pokemon.tipo-eletrico {
+    background: linear-gradient(180deg, #c49700 0%, #d9a90a 25%, #fcc719 100%);
+}
+
+.cartao-pokemon.tipo-eletrico .tipo {
+    background-color: #ac8100;
+    color: #fff;
+}
+
+.cartao-pokemon.tipo-grama {
+    background: linear-gradient(180deg, #359780 0%, #3baa90 25%, #49d0b0 100%);
+}
+
+.cartao-pokemon.tipo-grama .tipo {
+    background: #00863f;
+    color: #fff;
+}
+
+.cartao-pokemon.tipo-fogo {
+    background: linear-gradient(180deg, #be2d2f 0%, #da3437 25%, #f33b3e 100%);
+}
+
+.cartao-pokemon.tipo-fogo .tipo {
+    background: #970003;
+    color: #fff;
+}
+
+.cartao-pokemon.tipo-agua {
+    background: linear-gradient(180deg, #5a95c8 0%, #69abe4 25%, #76befe 100%);
+}
+
+.cartao-pokemon.tipo-agua .tipo {
+    background: #0071d4;
+    color: #fff;
+}
+
+.cartao-pokemon.tipo-trevas {
+    background: linear-gradient(180deg, #8a4c95 0%, #9f58ac 25%, #ba68c8 100%);
+}
+
+.cartao-pokemon.tipo-trevas .tipo {
+    background: #8900a1;
+    color: #fff;
+}
+
+.cartao-pokemon.tipo-dragao {
+    background: linear-gradient(180deg, #a3827c 0%, #b99188 25%, #c29791 100%);
+}
+
+.cartao-pokemon.tipo-dragao .tipo {
+    background: #aa7168;
+    color: #fff;
+}
